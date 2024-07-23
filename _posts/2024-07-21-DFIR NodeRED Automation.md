@@ -6,7 +6,7 @@ published: true
 Currently working on a massive automation script to assist with DFIR engagements and to cut down on the time of analysis.
 It is working as is and tested on Ubuntu 20.04 and 24.04 LTS versions.
 
-[Link to another page](another-page).
+[https://github.com/dterrey/DFIR_NodeRED](DFIR NodeRED Github).
 
 There should be whitespace between paragraphs.
 
