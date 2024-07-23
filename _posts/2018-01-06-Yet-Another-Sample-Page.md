@@ -1,9 +1,10 @@
 ---
-title: Yet Another Sample Page
+title: DFIR NodeRED Automation (Work in Progress)
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Currently working on a massive automation script to assist with DFIR engagements and to cut down on the time of analysis.
+It is working as is and tested on Ubuntu 20.04 and 24.04 LTS versions.
 
 [Link to another page](another-page).
 
